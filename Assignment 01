@@ -1,0 +1,16 @@
+void main (){
+  
+  int a = 24, b = 5;
+  
+  print (a+b);   //addition
+  
+  print (a-b);   //subtraction
+  
+  print(a*b);    //multiplication
+  
+  print (a/b);   //division
+  
+  print (a%b);   //modulus
+  
+  
+}
